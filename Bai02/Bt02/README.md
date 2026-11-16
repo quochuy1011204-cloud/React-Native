@@ -44,9 +44,20 @@ https://snack.expo.dev/@baidau/9fdb1a
 
 
 <img width="326" height="93" alt="image" src="https://github.com/user-attachments/assets/c626618a-c54d-45b3-aec2-d58ad04e858c" />
+
+
+
 <img width="318" height="148" alt="image" src="https://github.com/user-attachments/assets/84b9b551-1eaa-4e1e-b7e1-8430f39b86b3" />
+
+
 <img width="306" height="475" alt="image" src="https://github.com/user-attachments/assets/09cb7f57-d00f-47e4-9be0-b93bbf28130e" />
+
+
+
 <img width="303" height="318" alt="image" src="https://github.com/user-attachments/assets/9a03b975-58d9-4f66-a229-305fe1878834" />
+
+
+
 <img width="345" height="59" alt="image" src="https://github.com/user-attachments/assets/22108230-fed4-479a-9ef9-5618ca8fcf92" />
 
 
