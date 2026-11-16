@@ -43,4 +43,6 @@ https://snack.expo.dev/@baidau/9fdb1a
 
 
 
-Đính kèm hình ảnh giao diện ứng dụng và các component đã thực hiện tại đây.
+<img width="326" height="93" alt="image" src="https://github.com/user-attachments/assets/c626618a-c54d-45b3-aec2-d58ad04e858c" />
+
+
